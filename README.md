@@ -20,4 +20,4 @@ For Demo Video: [Demo Video](https://www.linkedin.com/posts/radhees-bala-2a08652
 
 For Contact: 
 Gmail:    radheesvolley@gmail.com  
-LinkedIn: [Radhees Bala] (https://www.linkedin.com/in/radhees-bala-2a08652b4/) 
+LinkedIn: [Radhees Bala](https://www.linkedin.com/in/radhees-bala-2a08652b4/) 
