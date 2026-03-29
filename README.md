@@ -19,5 +19,5 @@ Language Used: C++.
 For Demo Video: [Demo Video](https://www.linkedin.com/posts/radhees-bala-2a08652b4_simulation-epfl-robots-ugcPost-7439364115367710722-T6l2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuW6VgBPYjPBeU6XmIGHNi1sBbR9MCAjSo)
 
 For Contact: 
-Gmail: radheesvolley@gmail.com  
-LinkedIn [Radhees Bala](https://www.linkedin.com/in/radhees-bala-2a08652b4/) . 
+Gmail:    radheesvolley@gmail.com  
+LinkedIn: [Radhees Bala] (https://www.linkedin.com/in/radhees-bala-2a08652b4/) 
